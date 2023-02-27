@@ -1,2 +1,2 @@
 # power-bi
-Power BI Report on a Meal Delivery Company
+Power BI Report of a Meal Delivery Company
